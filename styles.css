@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+    padding: 25px;
+}
+h1{
+    color: darkslategray;
+}
+p{
+    color: cornsilk;
+}
+.dark-mode {
+    background-color: black;
+    color: lightgolde
